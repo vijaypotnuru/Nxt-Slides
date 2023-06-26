@@ -1,0 +1,19 @@
+.new-button {
+  font-family: Bree Serif;
+  width: 80px;
+  height: 35px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #dbeafe;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.plus-icon {
+  height: 10px;
+  margin-right: 5px;
+  background-color: #dbeafe;
+}
